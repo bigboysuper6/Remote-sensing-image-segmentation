@@ -16,7 +16,7 @@
 
 需要更详细的说明请下载 说明.zip
 
-[说明.zip]( https://wwd.lanzouf.com/iD4WB053eb6f ）
+[说明](https://wwd.lanzouf.com/iD4WB053eb6f）
 
 说明.zip下的 all_best.pkl需要放在 ai_detection 目录下，为权重文件。
 
