@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/AI_Detection" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
