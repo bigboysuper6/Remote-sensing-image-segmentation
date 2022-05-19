@@ -5,7 +5,7 @@
 
 **操作视频展示**
 
-[视频]("https://github.com/bigboysuper6/Remote-sensing-image-segmentation/blob/main/ImgVideo/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4")
+[视频](https://github.com/bigboysuper6/Remote-sensing-image-segmentation/blob/main/ImgVideo/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4)
 
 **界面展示**
   
