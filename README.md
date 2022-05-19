@@ -14,3 +14,10 @@
 ![](https://github.com/bigboysuper6/Remote-sensing-image-segmentation/blob/main/ImgVideo/%E5%9B%BE%E7%89%87%202.png)
   
 ![](https://github.com/bigboysuper6/Remote-sensing-image-segmentation/blob/main/ImgVideo/%E5%9B%BE%E7%89%873.png)
+
+需要更详细的说明请下载 说明.zip
+[说明.zip](https://wwd.lanzouf.com/iD4WB053eb6f）
+
+说明.zip下的 all_best.pkl需要放在 ai_detection 目录下，为权重文件。
+
+同时还包含编译安装文档，ppt，操作手册，演示视频。
